@@ -11,18 +11,18 @@ window.onscroll = function () {
 
 function openFile(filePath) {
   window.open(
-    "C:UsersAlvin AngeloDownloads\banner is night 3x1 m.pdf",
+    "C:\Users\Alvin Angelo\Desktop\DTW 1\Portofolio.github.io\banner is night 3x1 m.pdf",
     "_blank"
   );
 }
 
 function openFile(filePath) {
-  window.open("C:UsersAlvin AngeloDownloadsSertifikat Falcon 12.pdf", "_blank");
+  window.open("C:\Users\Alvin Angelo\Desktop\DTW 1\Portofolio.github.io\Sertifikat Falcon 12.pdf");
 }
 
 function openFile(filePath) {
   window.open(
-    "C:\Users\Alvin Angelo\Downloads\Gathering Information Systems 2023 Certificate of Appreciation.pdf",
+    "C:UsersAlvin AngeloDesktopDTW 1Portofolio.github.ioGathering Information Systems 2023 Certificate of Appreciation.pdf",
     "_blank"
   );
 }
